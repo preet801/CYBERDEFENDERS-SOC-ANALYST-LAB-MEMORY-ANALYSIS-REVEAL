@@ -9,4 +9,5 @@ You are a forensic investigator at a financial institution, and your SIEM flagge
 
 ![image](https://github.com/user-attachments/assets/7510be29-4b8f-4784-8230-4e48d72a827a)
 
+![image](https://github.com/user-attachments/assets/a7bc04ac-840f-4552-aac3-df7db06d3f19)
 
